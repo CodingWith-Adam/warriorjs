@@ -1,5 +1,7 @@
 #Warrior JS
 
+![alt text](warrior_cover.png)
+
 YouTube: (coming soon)
 
 https://warriorjs.com/
