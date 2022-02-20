@@ -2,7 +2,7 @@
 
 ![alt text](warrior_cover.png)
 
-YouTube: (coming soon)
+YouTube: https://youtu.be/f1AQMOJu90s
 
 https://warriorjs.com/
 
